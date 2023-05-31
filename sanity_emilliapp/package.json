@@ -20,7 +20,6 @@
     "@sanity/vision": "^3.0.0",
     "@stripe/stripe-js": "^1.52.1",
     "canvas-confetti": "^1.6.0",
-    "next-sanity-image": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
